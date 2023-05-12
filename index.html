@@ -5,51 +5,57 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-{ box-sizing: border-box; padding: 0px; border: 0; }
-body { font-family: Lucida Console; background: #ACA1E2; padding: 0px; border: 0; ; }
-header { background-color: #5944C6; padding: 0px; }
-/* Create two boxes that floats next to each other */
-nav { float: left; width: 20%; height: 420px; background: #ACA1E2; padding: 0px; border: 0; }
-/* Style the TOC */
-nav ul { list-style-type: square; padding: 30px; spacing: 0px; border: 0; ; }
-/* Content Format*/
-article { float: left; width: 80%; height: 460px; background: #ACA1E2; padding: 0px; border: 0; }
+* { box-sizing: border-box; padding: 0px; border: 0; }
+.ToC { column-width: 200px; }
+body { font-family: Lucida Console; background: #DEDAF4 }
+header { background-color: #5944C6;  }
+/* Create nav & section floats around each other */
+nav { float: left; width: 30%; background: #9B8FDD; padding: 10px; }
+nav ul { list-style-type: square; }
+section { float: left;  width: 70%; height: 600px; background: #DEDAF4 }
 /* Clear floats after the columns */
-section::after { content: ""; display: table; clear: both; border: 0; }
+section::after { content: ""; display: table; clear: both; }
 /* Style the footer */
-footer { background-color: #5944C6; padding: 0px; }
+footer { background-color: #9B8FDD; }
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 1200px) { nav, article { width: 100%; } }
+@media (max-width: 600px) { nav { width: 100%; height: auto} section { width: 100%; } }
 </style></head>
 <body>
 <header>
-<iframe src="sunrise.html" name="my_headder" width=100% height=700px title="headder" border: none; ></iframe>
+<iframe src="Lundi_Loc.html" name="my_headder" width=100% height=620 title="headder" ></iframe>
+</div>
 </header>
 
-<section>
   <nav>
-<h2> <a href="index.html"> Tacks </a> </h2>	
+<h2> <a target="my_headder" href="Lundi_Loc.html"> Tacks </a> </h2>	
+<div class="ToC" >	
     <ul>
       <li><a href="20230527-20230529.html" target="my_content">20230527-20230529</a></p>
       <li><a href="20230603-20230612.html" target="my_content">20230603-20230612</a></p>   
       <li><a href="20230613-20230617.html" target="my_content">20230613-20230617</a></p>
-      <li><a href="20230622-20230626.html" target="my_content">20230622-20230626</a></p>
-      <li><a href="20230627-20230630.html" target="my_content">20230627-20230630</a></p>
-      <li><a href="20230701-20230703.html" target="my_content">20230701-20230703</a></p>
-      <li><a href="20230704-20230707.html" target="my_content">20230704-20230707</a></p>
     </ul>
+</div>
   </nav>
   
-  <article>
-	<iframe src="yyyymmdd-yyyymmdd.html" name="my_content" height="100%" width="100%" title="content" border: none; ></iframe>
-  </article>
+<section>
+   <iframe src="yyyymmdd-yyyymmdd.html" name="my_content" width="100%" height=600 title="content" ></iframe>
 </section>
 
 <footer> 
 <table style="width:100%; font-family:Lucida Console">
-<col style="width: 25%" ><col style="width: 25%" ><col style="width: 25%" ><col style="width: 25%" >
-<tr><td><image src="Skipper.jpg" width="100%"  alt="Skipper"></td><td><img src="Lundi-Full.jpg" width="100%" alt="Lundi full"></td><td><script type="text/javascript"> var width="100%"; var zoom="3"; var show_track=true; var mmsi=211337670;</script><script type="text/javascript" src="https://www.vesselfinder.com/aismap.js"></script></td><td><img src="Lundi.jpg" width="100%"  alt="Lundi"></td></tr>
-<tr><td colspan="4" ><img src="fin.jpg" width="100%" alt="Fin"></td></tr>
+<tr>
+<col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" ><col style="width: 10%" >
+<td colspan=4><a target="my_headder" href="Sunrise.html"> <image src="Sunrise.gif" width="100%"  alt="Sunrise"></a></td>
+<td ><a target="my_headder" href="Lundi-Full.html"> <img src="Lundi-Full.gif" width="100%" alt="Lundi full"></a></td>
+<td ><a target="my_headder" href="Wave.html"> <img src="Wave.gif" width="100%" alt="Wave"></a></td>
+<td ><a target="my_headder" href="Lundi.html"> <img src="Lundi.gif" width="100%"  alt="Lundi"></a></td>
+<td ><a target="my_headder" href="Lundi_Innen.html"> <img src="Lundi_Innen.gif" width="100%" alt="Lundi innen"></a></td>
+<td ><a target="my_headder" href="Skipper"> <image src="Skipper.gif" width="100%"  alt="Skipper"></a></td>
+<td ><a target="my_headder" href="Sunset.html"> <image src="Sunset.gif" width="100%"  alt="Skipper"></a></td>
+</tr>
+<td colspan=5><a target="my_headder" href="Fin.html"> <image src="Fin.gif" width="100%"  alt="Fin"></a></td>
+<td colspan=2><a target="my_headder" href="Lundi_Innen_II.html"> <image src="Lundi_Innen_II.gif" width="100%"  alt="Lundi Innen II"></a></td>
+<td colspan=3><a target="my_headder" href="Gennacker.html"> <image src="Gennacker.gif" width="100%"  alt="gennacker"></a></td>
 </table>
 </footer>
 </body>
