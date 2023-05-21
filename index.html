@@ -7,7 +7,7 @@
 <style>
 * { box-sizing: border-box; padding: 0px; border: 0; }
 .ToC { column-width: 200px; }
-body { font-family: Lucida Console; background: #DEDAF4 }
+body { font-family: Lucida Console; font-size: 15px; background: #DEDAF4 }
 header { background-color: #5944C6;  }
 /* Create nav & section floats around each other */
 ul, ol { padding: 0px 25px; }
@@ -17,6 +17,10 @@ section { float: left;  width: 70%; height: 600px; background: #DEDAF4 }
 section::after { content: ""; display: table; clear: both; }
 /* Style the footer */
 footer { background-color: #9B8FDD; }
+/* Style the button for the collapsible content */
+.collapsible { border: none; text-align: left;  outline: none; background: #9B8FDD; font-family: Lucida Console; font-size: 15px;}
+.active, .collapsible:hover { background: #BDB4E8;}
+.content { display: none;  overflow: hidden; font-family: Lucida Console; font-size: 15px;}
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 1200px) { nav { width: 100%; height: auto} section { width: 100%; } }
 </style></head>
@@ -27,8 +31,8 @@ footer { background-color: #9B8FDD; }
 </header>
 
   <nav>
-<h2> <a target="my_header" href="Lundi_Loc.html"> Cruises </a> </h2>	
-<div class="ToC" >	
+<h2> <a target="my_header" href="Lundi_Loc.html"> Cruises </a> </h2>
+  <div class="ToC" >	
     <ul>
       <li><a href="20230527-20230529.html" target="my_content">20230527 -> Timmendorf <- </a></li>
       <li><a href="20230603-Wismar-60nm-Nysted-20230605.html" target="my_content">20230603 -> Nysted</a></li>   
@@ -40,38 +44,60 @@ footer { background-color: #9B8FDD; }
       <li><a href="20230629-Oskarsham-075nm-Visby-20230630.html" target="my_content">20230629 -> Gotland</a></li>
       <li><a href="20230701-Visby-115nm-Mem-20230703.html" target="my_content">20230701 -> Mem</a></li>
       <li><a href="20230704-20230707.html" target="my_content">20230704 Vadstena</a></li>
-
+      
       <li> kurze Pause </li>
-
+      
       <li><a href="20230725-20230725.html" target="my_content">20230725 Karlsborg</a></li>
       <li><a href="20230726-20230727.html" target="my_content">20230726 Sjötorp</a></li>
       <li><a href="20230728-20230730.html" target="my_content">20230728 Vänersborg</a></li>
       <li><a href="20230801-20230802.html" target="my_content">20230801 Göteborg</a></li>
-
-      <ul>
-        <li> über die Nordsee nach Stavanger <br> und gegen den Skagenstrom nach Kritiansand
+      
+      <li> 
+        <button type="button" class="collapsible">über die Nordsee nach Stavanger <br> und gegen den Skagenstrom nach Kristiansand</button>
+        <div class="content">
           <ul>
-            <li> zum & durch den Limfjord ( 1 Nacht und 3 Tage)
+            <li> zum & durch den Limfjord  <br> ( 2 Tage und 3 Tage)
               <ul>
                 <li><a href="cr_Aalborg-095nm-Goeteborg.html" target="my_content">Göteborg - 095nm - Aalborg</a></li>
                 <li><a href="cr_Thyboren-075nm-Aalborg.html" target="my_content">Aalborg - 075nm - Thyboren</a></li>
               </ul>
-            <li> und über die Nordsee ( 3 Tage)
+            <li> und über die Nordsee <br> ( 3 Tage)
               <ul>
                 <li><a href="cr_Stavanger-180nm-Thyboren.html" target="my_content">Thyboren - 180nm - Stavanger</a></li>
               </ul>
             </li>
-            <li><a href="cr_Stavanger-035nm-Lysefjorden-Stavanger.html" target="my_content">zum Lysefjord - 035nm - und zurück</a></li>
-            <li> und gegenden Strom zurück <br>(3 Tage und ein paar)
+            <li> zum Lysefjord <br> ( 1 Tag)
               <ul>
-                <li><a href="cr_Egersund-055nm-Stavanger.html" target="my_content">Stavanger - 055nm - Egersund</a></li>
-                <li><a href="cr_Korshamn-045nm-Egersund.html" target="my_content">Egersund - 045nm - Korshamn</a></li>
-                <li><a href="cr_Kristiansand-045nm-Korshamn.html" target="my_content">Korshamn - 045nm - Kristiansand</a></li>
+                <li><a href="cr_Stavanger-035nm-Lysefjorden-Stavanger.html" target="my_content">zum Lysefjord - 035nm - und zurück</a></li>
               </ul>
-            </li>	
+            </li>
+            <li> und gegenden Strom zurück <br> (5 Tage)
+              <ul>
+                <li><a href="cr_Stavanger-015nm-Tananger.html" target="my_content">Stavanger - 015nm - Tananger</a></li>
+                <li><a href="cr_Tananger-035nm-Sirevag.html" target="my_content">Tananger - 035nm - Sirevag</a></li>
+                <li><a href="cr_Sirevag-030nm-Kirkehamn.html" target="my_content">Sirevag - 030nm - Kirkehamn</a></li>
+                <li><a href="cr_Kirkehamn-025nm-Korshamn.html" target="my_content">Kirkehamn - 025nm - Korshamn</a></li>
+                <li><a href="cr_Korshamn-020nm-Mandal.html" target="my_content">Korshamn - 020nm - Mandal</a></li>
+                <li><a href="cr_Mandal-025nm-Kristiansand.html" target="my_content">Mandal - 025nm - Kristiansand</a></li>
+              </ul>
+            </li>
+            <li> Zürich Daytrip </li>	
           </ul>
-        </li>
-        <li> oder dem Skagenstrom folgend <br> und über die Nordsee zurück nach Aalborg
+        </div>
+      </li> 
+      <ul>
+        <li>
+          <button type="button" class="collapsible">und weiter nach Oslo </button>
+          <div class="content">
+            <ul>
+              <li><a href="cr_Hagefjordbrygga-050nm-Kristiansand.html" target="my_content">Kristiansand - 050nm - Hagefjordbrygga</a></li>
+            </ul>
+          </div>    
+	</li>
+      </ul>
+      <li> 
+        <button type="button" class="collapsible">oder dem Skagenstrom folgend <br> und über die Nordsee zurück nach Aalborg</button>
+        <div class="content">
           <ul>
             <li> über Norwegen zum Lysefjord <br>(7 lange Tage) 
               <ul>
@@ -90,43 +116,43 @@ footer { background-color: #9B8FDD; }
                 <li><a href="cr_Thyboren-075nm-Aalborg.html" target="my_content">Thyboren - 075nm - Aalborg</a></li>
               </ul>
             </li>
+            <li> Zürich Daytrip </li>
           </ul>
-        <li> Zürich Daytrip </li>
-          <ul>
-            <li> auf nach Schweden
-              <ul>
-                <li> direkt <br> (2 Tage und 2 Tage)
-                  <ul>
-                    <li><a href="cr_Aalborg-095nm-Goeteborg.html" target="my_content">Aalborg - 095nm - Göteborg</a></li>
-                    <li><a href="cr_Goeteborg-039nm-Noetsater.html" target="my_content">Göteborg - 039nm - Nötsater</a></li>
-                    <li><a href="cr_Noetsater-030nm-Kungshamn.html" target="my_content">Nötsater - 030nm - Kungshamn</a></li>
-                  </ul>
-                </li>
-                <li> oder via Dänemark <br> (3 Tage)
-                  <ul>
-                    <li><a href="cr_Aalborg-050nm-Vestero.html" target="my_content">Aalborg - 050nm - Vestero</a></li>
-                    <li><a href="cr_Vestero-030nm-Skagen.html" target="my_content">Vestero - 030nm - Skagen</a></li>
-                    <li><a href="cr_Skangen-040nm-Kungshamn.html" target="my_content">Skangen - 040nm - Kungshamn</a></li>
-                  </ul>
-                </li>
-                <li><a href="cr_Kungshamn-020nm-Stenungsund.html" target="my_content">Kungshamn - 020nm - Stenungsund</a></li>
-              </ul>
-            </li>
-            <li> oder via Norwegen <br> (4 Tage und eine Nacht)
-              <ul>
-                <li><a href="cr_Aalborg-050nm-Vestero.html" target="my_content">Aalborg - 050nm - Vestero</a></li>
-                <li><a href="cr_Vestero-030nm-Skagen.html" target="my_content">Vestero - 030nm - Skagen</a></li>
-                <li><a href="cr_Skangen-080nm-Hagefjordbrygga.html" target="my_content">Skangen - 080nm - Hagefjordbrygga</a></li>
-                <li><a href="cr_Hagefjordbrygga-050nm-Kristiansand.html" target="my_content">Hagefjordbrygga - 050nm - Kristiansand</a></li>
-              </ul>
-            </li>
-          </ul>
-      </li>
+        </div>
+      </li> 
+      <ul>
+        <li>
+          <button type="button" class="collapsible">und weiter nach Schweden </button>
+          <div class="content">
+            <ul>
+              <li> zwei Wege nach Kungshamn 
+                <ul>
+                  <li> direkt <br> (2 Tage und 2 Tage)
+                    <ul>
+                      <li><a href="cr_Aalborg-095nm-Goeteborg.html" target="my_content">Aalborg - 095nm - Göteborg</a></li>
+                      <li><a href="cr_Goeteborg-039nm-Noetsater.html" target="my_content">Göteborg - 039nm - Nötsater</a></li>
+                      <li><a href="cr_Noetsater-030nm-Kungshamn.html" target="my_content">Nötsater - 030nm - Kungshamn</a></li>
+                    </ul>
+                  </li>
+                  <li> oder via Dänemark <br> (3 Tage)
+                    <ul>
+                      <li><a href="cr_Aalborg-050nm-Vestero.html" target="my_content">Aalborg - 050nm - Vestero</a></li>
+                      <li><a href="cr_Vestero-030nm-Skagen.html" target="my_content">Vestero - 030nm - Skagen</a></li>
+                      <li><a href="cr_Skangen-040nm-Kungshamn.html" target="my_content">Skangen - 040nm - Kungshamn</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>              
+              <li><a href="cr_Kungshamn-020nm-Stenungsund.html" target="my_content">Kungshamn - 020nm - Stenungsund</a></li>
+            </ul>
+          </div>  
+        </li>
+      </ul>
     </div>
   </nav>
   
 <section>
-   <iframe src="yyyymmdd-yyyymmdd.html" name="my_content" width="100%" height=600 title="content" ></iframe>
+   <iframe src="cr_Departure_000nm_Destination.html" name="my_content" width="100%" height=600 title="content" ></iframe>
 </section>
 
 <footer> 
@@ -146,5 +172,21 @@ footer { background-color: #9B8FDD; }
 <td colspan=3><a target="my_header" href="Gennacker.html"> <image src="Gennacker.gif" width="100%"  alt="gennacker"></a></td>
 </table>
 </footer>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 </body>
 </html>
