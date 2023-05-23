@@ -19,7 +19,7 @@ section::after { content: ""; display: table; clear: both; }
 footer { background-color: #9B8FDD; }
 /* Style the button for the collapsible content */
 .collapsible { border: none; text-align: left;  outline: none; background: #9B8FDD; font-family: Lucida Console; font-size: 15px;}
-.active, .collapsible:hover { background: #BDB4E8;}
+.active, .collapsible:hover { background: #9B8FDD;}
 .content { display: none;  overflow: hidden; font-family: Lucida Console; font-size: 15px;}
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 1200px) { nav { width: 100%; height: auto} section { width: 100%; } }
@@ -35,25 +35,45 @@ footer { background-color: #9B8FDD; }
   <div class="ToC" >	
     <ul>
       <li><a href="cr_Wismar-010nm-Timmendorf.html" target="my_content">20230527 <-> Timmendorf </a></li>
-      <li><a href="cr_Wismar-60nm-Nysted.html" target="my_content">20230603 -> Nysted</a></li>   
-      <li><a href="cr_Nysted-095nm-Kiel.html" target="my_content">20230606 -> Kiel</a></li>   
-      <li><a href="cr_Kiel.html" target="my_content">20230609 <-> Kiel</a></li>   
-      <li><a href="cr_Kiel-090nm-Rostock.html" target="my_content">20230610 -> Rostock</a></li>   
-      <li><a href="cr_Rostock-110nm-Sassnitz.html" target="my_content">20230613 -> Sassnitz</a></li>
-      <li><a href="cr_Sassnitz-220nm-Oskarshamn.html" target="my_content">20230617 -> Oskarshamn</a></li>
-      <li><a href="cr_Oskarsham-075nm-Visby.html" target="my_content">20230629 -> Gotland</a></li>
-      <li><a href="cr_Visby-115nm-Mem.html" target="my_content">20230701 -> Mem</a></li>
-      <li><a href="cr_Mem-095km-Vadstena.html" target="my_content">20230704 ~> Vadstena</a></li>
-      
-      <li> kurze Pause </li>
-      
-      <li><a href="cr_Vadstena_030km_Karlsborg.html" target="my_content">20230725 ~> Karlsborg</a></li>
-      <li><a href="cr_Karlsborg_065km_Sjoetorp.html" target="my_content">20230726 ~> Sjötorp</a></li>
-      <li><a href="cr_Sjoetorp_120km_Vaenersborg.html" target="my_content">20230728 ~> Vänersborg</a></li>
-      <li><a href="cr_Vaenersborg_080km_Goeteborg.html" target="my_content">20230801 ~> Göteborg</a></li>
-      
       <li> 
-        <button type="button" class="collapsible">20230803 -> über die Nordsee nach Stavanger <br> und gegen den Skagenstrom nach Kristiansand</button>
+        <button type="button" class="collapsible"><u>20230603 -> über Dänemark nach Kiel <br> zum Oceanrace</u></button>
+        <div class="content">
+          <ul>
+            <li><a href="cr_Wismar-60nm-Nysted.html" target="my_content">20230603 -> Nysted</a></li>   
+            <li><a href="cr_Nysted-095nm-Kiel.html" target="my_content">20230606 -> Kiel</a></li>   
+            <li><a href="cr_Kiel.html" target="my_content">20230609 <-> Kiel</a></li>   
+          </ul>
+        </div>
+      </li>
+      <li> 
+        <button type="button" class="collapsible"><u>20230610 -> auf nach Gotland <br> über Rügen, Bornholm & Öland</u></button>
+        <div class="content">
+          <ul>
+            <li><a href="cr_Kiel-090nm-Rostock.html" target="my_content">20230610 -> Rostock</a></li>   
+            <li><a href="cr_Rostock-110nm-Sassnitz.html" target="my_content">20230613 -> Sassnitz</a></li>
+            <li><a href="cr_Sassnitz-220nm-Oskarshamn.html" target="my_content">20230617 -> Oskarshamn</a></li>
+            <li><a href="cr_Oskarsham-075nm-Visby.html" target="my_content">20230629 -> Gotland</a></li>
+          </ul>
+        </div>
+      </li>
+      <li> 
+        <button type="button" class="collapsible"><u>20230701 -> Richtung West <br> quer durch Schweden</u></button>
+        <div class="content">
+          <ul>
+            <li><a href="cr_Visby-115nm-Mem.html" target="my_content">20230701 -> Mem</a></li>
+            <li><a href="cr_Mem-095km-Vadstena.html" target="my_content">20230704 ~> Vadstena</a></li>
+            <br>
+            <li> kurze Pause </li>
+            <br>
+            <li><a href="cr_Vadstena_030km_Karlsborg.html" target="my_content">20230725 ~> Karlsborg</a></li>
+            <li><a href="cr_Karlsborg_065km_Sjoetorp.html" target="my_content">20230726 ~> Sjötorp</a></li>
+            <li><a href="cr_Sjoetorp_120km_Vaenersborg.html" target="my_content">20230728 ~> Vänersborg</a></li>
+            <li><a href="cr_Vaenersborg_080km_Goeteborg.html" target="my_content">20230801 ~> Göteborg</a></li>
+          </ul>
+        </div>
+      </li>
+      <li> 
+        <button type="button" class="collapsible"><u>20230803 -> über die Nordsee nach Stavanger <br> und gegen den Skagenstrom nach Kristiansand</u></button>
         <div class="content">
           <ul>
             <li> 20230803 -> zum & durch den Limfjord  <br> ( 2 Tage und 3 Tage)
@@ -87,7 +107,7 @@ footer { background-color: #9B8FDD; }
       </li> 
       <ul>
         <li>
-          <button type="button" class="collapsible">und weiter nach Oslo </button>
+          <button type="button" class="collapsible"><u>und weiter nach Oslo </u></button>
           <div class="content">
             <ul>
               <li><a href="cr_Hagefjordbrygga-050nm-Kristiansand.html" target="my_content">Kristiansand - 050nm - Hagefjordbrygga</a></li>
@@ -96,7 +116,7 @@ footer { background-color: #9B8FDD; }
 	</li>
       </ul>
       <li> 
-        <button type="button" class="collapsible">oder dem Skagenstrom folgend <br> und über die Nordsee zurück nach Aalborg</button>
+        <button type="button" class="collapsible"><u>oder dem Skagenstrom folgend <br> und über die Nordsee zurück nach Aalborg</u></button>
         <div class="content">
           <ul>
             <li> 20230803 -> über Norwegen zum Lysefjord <br>(7 lange Tage) 
@@ -122,7 +142,7 @@ footer { background-color: #9B8FDD; }
       </li> 
       <ul>
         <li>
-          <button type="button" class="collapsible">und weiter nach Schweden </button>
+          <button type="button" class="collapsible"><u>und weiter nach Schweden </u></button>
           <div class="content">
             <ul>
               <li> 20230821 -> zwei Wege nach Kungshamn 
@@ -178,6 +198,12 @@ var i;
 
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
+    var collap = document.getElementsByClassName("collapsible");
+    var j;
+    for (j = 0; j < collap.length; j++) {
+      collap[j].nextElementSibling.style.display = "none";
+      collap[j].style.background = "#9B8FDD";
+    };
     this.classList.toggle("active");
     var content = this.nextElementSibling;
     if (content.style.display === "block") {
