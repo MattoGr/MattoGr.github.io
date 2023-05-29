@@ -254,6 +254,13 @@ footer { background-color: #9B8FDD; }
 </table>
 </footer>
 <script>
+const parameters = new URL(window.location.toLocaleString()).searchParams;
+const target_link = parameters.get('target');
+console.log(target_link);
+document.getElementsByName("my_content")[0].src = target_link;
+document.getElementsByName("my_content")[0].contentWindow.location.reload();
+
+
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
