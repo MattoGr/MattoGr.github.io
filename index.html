@@ -260,17 +260,13 @@ for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     var collap = document.getElementsByClassName("collapsible");
     var j;
-    for (j = 0; j < collap.length; j++) {
-      collap[j].nextElementSibling.style.display = "none";
-      collap[j].style.background = "#9B8FDD";
-    };
     this.classList.toggle("active");
     var content = this.nextElementSibling;
     if (content.style.display === "block") {
       content.style.display = "none";
     } else {
       content.style.display = "block";
-    }
+    } 
   });
 }
 </script>
