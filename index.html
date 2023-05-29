@@ -256,7 +256,11 @@ footer { background-color: #9B8FDD; }
 <script>
 const parameters = new URL(window.location.toLocaleString()).searchParams;
 const target_link = parameters.get('target');
+if (target_link) {
 document.getElementsByName("my_content")[0].src = target_link;
+} else {
+document.getElementsByName("my_content")[0].src = "cr_Departure_000nm_Destination.html";
+}
 document.getElementsByName("my_content")[0].contentWindow.location.reload();
 
 
