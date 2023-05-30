@@ -257,16 +257,11 @@ footer { background-color: #9B8FDD; }
 const parameters = new URL(window.location.toLocaleString()).searchParams;
 const target_link = parameters.get('target');
 if (target_link) {
-if (target_link.substr(0,3) !== "cr_" && target_link.slice(-4) !== "cr_") {
-document.getElementsByName("my_content")[0].src = "cr_" + target_link + ".html";
-} else {
-document.getElementsByName("my_content")[0].src = target_link;
-}
+document.getElementsByName("my_content")[0].src = "/course/cr_" + target_link + ".html";
 } else {
 document.getElementsByName("my_content")[0].src = "/course/cr_Departure_000nm_Destination.html";
 }
 document.getElementsByName("my_content")[0].contentWindow.location.reload();
-
 
 var coll = document.getElementsByClassName("collapsible");
 var i;
