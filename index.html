@@ -254,6 +254,11 @@ footer { background-color: #9B8FDD; }
 </table>
 </footer>
 <script>
+window.act_album = function (button) {
+  var l = "https://photos.app.goo.gl/";
+  window.open(l + button.dataset.p1 + button.dataset.p2);
+}
+
 const parameters = new URL(window.location.toLocaleString()).searchParams;
 const target_link = parameters.get('target');
 if (target_link) {
