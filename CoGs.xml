@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoGs>
+ <CoG cr_id="Wismar-010nm-Timmendorf">
+  <startdate>20230527</startdate> 
+  <enddate>20230527</enddate>
+  <crew>Daniel, Anette &amp; Rene</crew> 
+  <start>Wismar</start>
+  <distance unit="nm">18</distance>
+  <destination>Wismar</destination>
+  <link>https://appchart.c-map.com/redirect-track.html?id=c3vFWPYxQ&amp;key=JaBfWzmzLtSWbBYU0YDelmRaGFQRFPKB</link>
+  <aid1>ggRZYadKD</aid1>
+  <aid2>BcGWrud6</aid2>
+  <comment>nur ohne Wellen</comment>
+ </CoG>
+ <CoG cr_id="Wismar-010nm-Timmendorf">
+  <startdate>20230530</startdate> 
+  <enddate>20230530</enddate>
+  <crew>Stefan &amp; Daniel</crew> 
+  <start>Wismar</start>
+  <distance unit="nm">5</distance>
+  <destination>Wismar</destination>
+  <link>https://appchart.c-map.com/redirect-track.html?id=YnPhLLbYS&amp;key=xDXTvZjH2g9Bg4SgKaZi8qRK1KQthrdx</link>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <comment>erster Minischlag mit Stefan von der O(h)ne - Thejo war ja schon ;-)	
+</comment>
+ </CoG>
+ <CoG cr_id="Wismar-100nm-Langeland-Kiel"> 
+  <startdate>2023mmdd</startdate> 
+  <enddate>2023mmdd</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2> 
+  <start>Wismar</start>
+  <distance unit="nm">100</distance>
+  <stopovers>
+   <stopover>Burgstaken/Fehmarn</stopover>
+   <stopover>Bagenkop/Langeland</stopover>
+  </stopovers>
+  <destination>Kiel</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=HoTPmGXo3&amp;key=yILoSJ4qltSYVbCVVnHe2asuQND9V9hZ</link>
+  <comment>via Burgstaaken </comment>
+ </CoG>
+ <CoG cr_id="Wismar-60nm-Nysted"> 
+  <startdate>2023mmdd</startdate> 
+  <enddate>2023mmdd</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Wismar</start>
+  <stopovers>
+   <stopover>Burgstaken/Fehmarn</stopover>
+  </stopovers>
+  <distance unit="nm">60</distance>
+  <destination>Nysted</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=N6XA9VvLM&amp;key=2AaxHvyQvNJKnSJ49J79ctA9BCUxUouH</link>
+  <comment>ggf. via Timmendorf</comment>
+ </CoG>
+ <CoG cr_id="Nysted-095nm-Kiel"> 
+  <startdate>2023mmdd</startdate> 
+  <enddate>2023mmdd</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Nysted</start>
+  <distance unit="nm">95</distance>
+  <destination>Kiel</destination>
+  <stopovers>
+   <stopover>Bagenkop/Langeland</stopover>
+  </stopovers>
+  <link>https://appchart.c-map.com/redirect-route.html?id=fnDdXcftX&amp;key=gJBBTunV3vubtUidrxG5XRrL5jIL5Ce6</link>
+  <comment>Dänische Südost&quot;küste&quot;</comment>
+ </CoG>
+ <CoG cr_id="Kiel"> 
+  <startdate>20230609</startdate> 
+  <enddate>20230609</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Kiel</start>
+  <distance unit="nm">10</distance>
+  <destination>Kiel</destination>
+  <link>https://www.kiel-sailing-city.de/veranstaltungen/the-ocean-race-2023-kiel-fly-by.html</link>
+  <comment>Schnelle Boote sehen</comment>
+ </CoG>
+ <CoG cr_id="Kiel-090nm-Rostock"> 
+  <startdate>20230610</startdate> 
+  <enddate>20230612</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Kiel</start>
+  <stopovers>
+   <stopover>Burgstaken/Fehmarn</stopover>
+   <stopover>Kühlungsborn</stopover>
+  </stopovers>
+  <distance unit="nm">90</distance>
+  <destination>Rostock</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=fx0KsXzl1&amp;key=xHKqEeE1pJIrUchMg16CCEEjJcJyWH6D</link>
+  <comment>gen Osten</comment>
+ </CoG>
+ <CoG cr_id="Rostock-110nm-Sassnitz"> 
+  <startdate>20230613</startdate> 
+  <enddate>20230616</enddate>
+  <crew>Thomas</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Rostock</start>
+  <distance unit="nm">110</distance>
+  <destination>Sassnitz</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
+  <comment>Nachtfahrt Richtung Hiddensee, dann über Strahsund und den &lt;a target=&quot;my_header&quot;
+href=&quot;https://de.wikipedia.org/wiki/Greifswalder_Bodden&quot;&gt;Greifswalder Bodden&lt;/a&gt;</comment>
+ </CoG>
+ <CoG cr_id="Sassnitz-220nm-Oskarshamn"> 
+  <startdate>20230617</startdate> 
+  <enddate>20230626</enddate>
+  <crew>Junior</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Sassnitz</start>
+  <stopovers>
+   <stopover>Bornholm
+    <link>https://appchart.c-map.com/redirect-route.html?id=nmwdykrsJ&amp;key=rmUfUFGEobj87higPz5v10buxs4QjyDB</link>
+    <arrivaldate>20230618</arrivaldate> 
+    <departuredate>20230618</departuredate>
+   </stopover>
+   <stopover>Utklippan
+    <arrivaldate>20230619</arrivaldate> 
+    <departuredate>20230620</departuredate>
+    <link>https://appchart.c-map.com/redirect-route.html?id=mNW7SgkWG&amp;key=XjrrJNazCv6r9CtMEl46hOIFYnHwVtMT</link>
+   </stopover>
+   <stopover>Kalmar
+    <arrivaldate>20230622</arrivaldate> 
+    <departuredate>20230623</departuredate>
+    <link>https://appchart.c-map.com/redirect-route.html?id=PvQPmJBlT&amp;key=EruV76MamXWXna6W045DeEksTEKxx68q</link>
+   </stopover>
+   <stopover>Öland
+    <arrivaldate>20230623</arrivaldate> 
+    <departuredate>20230624</departuredate>
+    <link>https://appchart.c-map.com/redirect-route.html?id=OzG55GL7I&amp;key=5Fqqb16val8PGrLW5dAZTpDdPa2xIgzd</link>
+   </stopover>
+  </stopovers>
+  <distance unit="nm">220</distance>
+  <destination>Oskarshamn</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=aWsFJnb4U&amp;key=Zyl6DRv8D79F25Lvaaxy3NQdEM4xUfRS</link>
+  <comment>
+   über Nacht Sassnitz nach Bornholm ... am morgen da ankommen&lt;br&gt;
+   am Abend weiter und am nächsten Nachmittag auf Utklippan ankommen&lt;br&gt;
+   weiter nach Kalmar, mit Übernachtung auf Öland&lt;br&gt;
+   und weiter Oskarsham, wieder mit Übernachtung auf Öland.
+  </comment>
+ </CoG>
+ <CoG cr_id="Oskarsham-075nm-Visby"> 
+  <startdate>20230629</startdate> 
+  <enddate>20230630</enddate>
+  <crew>Urs</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Oskarsham</start>
+  <distance unit="nm">75</distance>
+  <destination>Visby</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=sIamipb00&amp;key=3wmZNLE6rsoHSXWuJl0cYiaP3GIFh5L5</link>
+  <comment>ein (Nacht-)Schlag</comment>
+ </CoG>
+ <CoG cr_id="Visby-115nm-Mem"> 
+  <startdate>20230701</startdate> 
+  <enddate>2023060703</enddate>
+  <crew>Raffa</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Visby</start>
+  <distance unit="nm">115</distance>
+  <destination>Mem</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=CI4lNjPb0&amp;key=xoAWohudtFIeWXJEaHvCTpPM2Jr9bxv7</link>
+  <comment>auf Richtung Gotaland-Kanal</comment>
+ </CoG>
+ <CoG cr_id="Mem-095km-Vadstena"> 
+  <startdate>20230704</startdate> 
+  <enddate>2023060707</enddate>
+  <crew>Raffa</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Mem</start>
+  <distance unit="km">95</distance>
+  <destination>Vadestena</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=l3cxlfWJA&amp;key=3DxmG6M4rGqnbBcqCvRA7f1bCYRQ43rA</link>
+  <comment>&lt;a target=&quot;my_header&quot;  href=&quot;https://www.gotacanal.se&quot;&gt;Kreuzfahrt&lt;br&gt;&lt;/a&gt; auf
+   der östliche Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://www.gotakanal.se&quot;&gt;Gotaland-Kanal&lt;/a&gt;
+  </comment>
+ </CoG>
+ <CoG cr_id="Vadstena_030km_Karlsborg"> 
+  <startdate>20230724</startdate> 
+  <enddate>2023060725</enddate>
+  <crew>Valdis</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Vadestena</start>
+  <distance unit="km">30</distance>
+  <destination>Karlsborg</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=RRNs3XyIG&amp;key=hH8dYGTGnCaUtxuu6X1WYk5aBxTZMmzP</link>
+  <comment>Quer über den &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/V%C3%A4ttern&quot;&gt;Vätteren&lt;/a&gt;</comment>
+ </CoG>
+ <CoG cr_id="Karlsborg_065km_Sjoetorp"> 
+  <startdate>20230725</startdate> 
+  <enddate>2023060726</enddate>
+  <crew>Valdis</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Karlsborg</start>
+  <distance unit="km">65</distance>
+  <destination>Sjötorp</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=bYGSoUF1N&amp;key=bwSU70TnwLtAFAF2MBbeK8R1eHtXfPN3</link>
+  <comment>&lt;a target=&quot;my_header&quot; href=&quot;https://www.gotacanal.se&quot;&gt;Kreuzfahrt&lt;br&gt;&lt;/a&gt; auf
+der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://www.gotakanal.se&quot;&gt;Gotaland-Kanal&lt;/a&gt;</comment>
+ </CoG>
+ <CoG cr_id="Sjoetorp_120km_Vaenersborg"> 
+  <startdate>20230727</startdate> 
+  <enddate>2023060729</enddate>
+  <crew>Valdis</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Sjötorp</start>
+  <distance unit="km">120</distance>
+  <destination>Vänersborg</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=pzVWTrvRh&amp;key=Fcngj22O7da5a0ufs9DOr1DeGOKGmgyn</link>
+  <comment>Längs des &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/V%C3%A4nern&quot;&gt;Vänern&lt;/a&gt;</comment>
+ </CoG>
+ <CoG cr_id="Vaenersborg_080km_Goeteborg"> 
+  <startdate>20230730</startdate> 
+  <enddate>2023060731</enddate>
+  <crew>Valdis</crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start>Vänersborg</start>
+  <distance unit="km">80</distance>
+  <destination>Göteborg</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=ftLT8KEMB&amp;key=2V9FjHyNiavcfrxodcHSCVKjGj1xfrVo</link>
+  <comment>&lt;a target=&quot;_blank&quot; href=&quot;https://www.sjofartsverket.se/contentassets/109c1f52b0bb4421a5beb9a565fdf079/fritidsthnkanal2014.pdf&quot;&gt;Fahren&lt;/a&gt; auf dem &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/Trollh%C3%A4tte-Kanal&quot;&gt;Trollhätten-Kanal&lt;/a&gt;
+</comment>
+ </CoG>
+</CoGs>
+
+<!-- CoG cr_id=""> 
+  <startdate>yyyymmdd</startdate> 
+  <enddate>yyyymmdd</enddate>
+  <crew></crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start></start>
+  <stopovers>
+   <stopover>text
+    <link></link>
+    <arrivaldate></arrivaldate> 
+    <departuredate></departuredate>
+   </stopover>
+   <stopover>text
+    <link></link>
+    <arrivaldate></arrivaldate> 
+    <departuredate></departuredate>
+   </stopover>
+  </stopovers>
+  <distance unit="nm"></distance>
+  <destination></destination>
+  <link></link>
+  <comment>
+  </comment>
+ </CoG>
+<CoG cr_id="same as above, if sailed 2 times ;-)"> 
+  <startdate>yyyymmdd</startdate> 
+  <enddate>yyyymmdd</enddate>
+  <crew></crew>
+  <aid1></aid1>
+  <aid2></aid2>
+  <start></start>
+  <stopovers>
+   <stopover>text
+    <link></link>
+    <arrivaldate></arrivaldate> 
+    <departuredate></departuredate>
+   </stopover>
+   <stopover>text
+    <link></link>
+    <arrivaldate></arrivaldate> 
+    <departuredate></departuredate>
+   </stopover>
+  </stopovers>
+  <distance unit="nm"></distance>
+  <destination></destination>
+  <link></link>
+  <comment>
+  </comment>
+ </CoG -->
+  
