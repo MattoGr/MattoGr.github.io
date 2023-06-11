@@ -10,7 +10,7 @@
   <link>https://appchart.c-map.com/redirect-track.html?id=c3vFWPYxQ&amp;key=JaBfWzmzLtSWbBYU0YDelmRaGFQRFPKB</link>
   <aid1>ggRZYadKD</aid1>
   <aid2>BcGWrud6</aid2>
-  <comment>nur ohne Wellen</comment>
+  <comment>nur ohne Wellen ;-) </comment>
  </CoG>
  <CoG cr_id="Wismar-010nm-Timmendorf">
   <startdate>20230530</startdate> 
@@ -39,37 +39,67 @@
   </stopovers>
   <destination>Kiel</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=HoTPmGXo3&amp;key=yILoSJ4qltSYVbCVVnHe2asuQND9V9hZ</link>
-  <comment>via Burgstaaken </comment>
+  <comment>es war geplant: &lt;p&gt; Montag: Einschiffen &amp; Timmerdorf, Dienstag Burgstaaken, Mittwoch Bagenkop auf Langeland und Donnerstag nach Kiel 		
+</comment>
  </CoG>
  <CoG cr_id="Wismar-60nm-Nysted"> 
-  <startdate>2023mmdd</startdate> 
-  <enddate>2023mmdd</enddate>
+  <startdate>20230604</startdate> 
+  <enddate>20230607</enddate>
   <crew>Stefan &amp; Thejo</crew>
   <aid1>H5eXP85</aid1>
   <aid2>H18N7j1Zy9</aid2>
   <start>Wismar</start>
   <stopovers>
-   <stopover>Burgstaken/Fehmarn</stopover>
+    <stopover>nach Kirchdorf
+      <startdate>20230604</startdate> 
+      <enddate>20230604</enddate>
+      <start>Wismar</start>
+      <distance unit="nm">9</distance>
+      <destination>Kirchdorf</destination>
+      <link>https://appchart.c-map.com/redirect-track.html?id=uYnIrzLUa&amp;key=mbMv3sghpHQXZm1f3hJetwz9asdQ9OUw</link>
+    </stopover>
+    <stopover>und quer rüber nach Grömitz
+      <startdate>20230605</startdate> 
+      <enddate>20230605</enddate>
+      <start>Kirchdorf</start>
+      <distance unit="nm">26</distance>
+      <destination>Grömitz</destination>
+      <link>https://appchart.c-map.com/redirect-track.html?id=tWEC0uSQI&amp;key=aEH7KyepEIyBkHZt8Q6eLHBRmald9qOj</link>
+    </stopover>
+    <stopover>und via Burgstaaken
+      <startdate>20230606</startdate> 
+      <enddate>20230606</enddate>
+      <start>Grömitz</start>
+      <distance unit="nm">26</distance>
+      <destination>Burgstaaken</destination>
+      <link>https://appchart.c-map.com/redirect-track.html?id=tWEC0uSQI&amp;key=aEH7KyepEIyBkHZt8Q6eLHBRmald9qOj</link>
+    </stopover>
+    <stopover>und nach Nysted
+      <startdate>20230607</startdate> 
+      <enddate>20230607</enddate>
+      <start>Burgstaaken</start>
+      <distance unit="nm">31</distance>
+      <destination>Nysted</destination>
+      <link>https://appchart.c-map.com/redirect-route.html?id=JBtgP3tjf&amp;key=ePT6BmKaULneZp5FSSIrOrnshIoscOjj</link>
+    </stopover>
   </stopovers>
-  <distance unit="nm">60</distance>
+  <distance unit="nm">92</distance>
   <destination>Nysted</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=N6XA9VvLM&amp;key=2AaxHvyQvNJKnSJ49J79ctA9BCUxUouH</link>
-  <comment>ggf. via Timmendorf</comment>
+  <comment>Geplant war: Sonntag: Timmerdorf, Montag Einschiffen &amp; Burgstaaken, Dienstag Nysted &lt;p&gt; Statt dessen wurde Montag erst der Motor gemacht und Mittwoch hätte es von Burgstaaken direkt nach Kiel zum Oceanrace gehen sollen. Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus West wurde beschlossen, Kiel sein zu lassen und statt dessen "nur" über Dänemark nach Rügen zu fahren; alles andere wäre in einer 3-tägigen Kreuz gegen 6-7 Bft und 1.5 m Welle geendet.
+  </comment>
  </CoG>
  <CoG cr_id="Nysted-095nm-Kiel"> 
-  <startdate>2023mmdd</startdate> 
-  <enddate>2023mmdd</enddate>
+  <startdate>20230607</startdate> 
+  <enddate>20230608</enddate>
   <crew>Stefan &amp; Thejo</crew>
   <aid1>H5eXP85</aid1>
   <aid2>H18N7j1Zy9</aid2>
   <start>Nysted</start>
   <distance unit="nm">95</distance>
   <destination>Kiel</destination>
-  <stopovers>
-   <stopover>Bagenkop/Langeland</stopover>
-  </stopovers>
-  <link>https://appchart.c-map.com/redirect-route.html?id=fnDdXcftX&amp;key=gJBBTunV3vubtUidrxG5XRrL5jIL5Ce6</link>
-  <comment>Dänische Südost&quot;küste&quot;</comment>
+  <comment>/fiel ins Wasser wg. kommendem Starkwind gegenan auf dem Weg zurück
+  </comment>
  </CoG>
  <CoG cr_id="Kiel"> 
   <startdate>20230609</startdate> 
@@ -78,10 +108,8 @@
   <aid1>H5eXP85</aid1>
   <aid2>H18N7j1Zy9</aid2>
   <start>Kiel</start>
-  <distance unit="nm">10</distance>
   <destination>Kiel</destination>
-  <link>https://www.kiel-sailing-city.de/veranstaltungen/the-ocean-race-2023-kiel-fly-by.html</link>
-  <comment>Schnelle Boote sehen</comment>
+  <comment>doch keine schnellen Boote sehen</comment>
  </CoG>
  <CoG cr_id="Kiel-090nm-Rostock"> 
   <startdate>20230610</startdate> 
@@ -90,27 +118,60 @@
   <aid1>H5eXP85</aid1>
   <aid2>H18N7j1Zy9</aid2>
   <start>Kiel</start>
-  <stopovers>
-   <stopover>Burgstaken/Fehmarn</stopover>
-   <stopover>Kühlungsborn</stopover>
-  </stopovers>
-  <distance unit="nm">90</distance>
   <destination>Rostock</destination>
-  <link>https://appchart.c-map.com/redirect-route.html?id=fx0KsXzl1&amp;key=xHKqEeE1pJIrUchMg16CCEEjJcJyWH6D</link>
-  <comment>gen Osten</comment>
+  <comment>/fiel ins Wasser - das alles gegen angekündigte 7-8 Bft muss nicht sein</comment>
  </CoG>
- <CoG cr_id="Rostock-110nm-Sassnitz"> 
+ <CoG cr_id="Rostock-110nm-Stralsund-Sassnitz"> 
   <startdate>20230613</startdate> 
   <enddate>20230616</enddate>
   <crew>Thomas</crew>
-  <aid1></aid1>
-  <aid2></aid2>
+  <aid1>6p9E5PBV</aid1>
+  <aid2>snrrdFbt6</aid2>
   <start>Rostock</start>
   <distance unit="nm">110</distance>
   <destination>Sassnitz</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
-  <comment>Nachtfahrt Richtung Hiddensee, dann über Strahsund und den &lt;a target=&quot;my_header&quot;
-href=&quot;https://de.wikipedia.org/wiki/Greifswalder_Bodden&quot;&gt;Greifswalder Bodden&lt;/a&gt;</comment>
+  <comment>Zum Dank für &lt;a target="my_header" href=" https://windpilot.com/blog/blog/windpilot/sv-lundi-matthias-gruetzmacher-ch/"çgt;viel viel Hilfe &lt;/a&gt;&lt;br&gt;Geplant war der Start in Rostock; tatsächlich starten wir in Stralsund, das gibt uns die Gelegenheit zum Landfall auf Hiddensee.
+  </comment>
+ </CoG>
+ <CoG cr_id="Stralsund-050nm-Hiddensee-Sassnitz"> 
+  <startdate>20230613</startdate> 
+  <enddate>20230616</enddate>
+  <stopovers>
+   <stopover>Hiddensee
+    <startdate>20230613</startdate> 
+    <enddate>20230613</enddate>
+    <start>Stralsund</start>
+    <distance unit="nm">10</distance>
+    <destination>Vitte</destination>
+    <link></link>
+   </stopover>
+   <stopover>Ankern am Kap
+    <startdate>20230614</startdate> 
+    <enddate>20230614</enddate>
+    <start>Vitte</start>
+    <distance unit="nm">15</distance>
+    <destination>Kap Ancona</destination>
+    <link></link>
+   </stopover>
+   <stopover>Sassnitz
+    <startdate>20230615</startdate> 
+    <enddate>20230615</enddate>
+    <start></start>
+    <distance unit="nm"></distance>
+    <destination></destination>
+    <link></link>
+   </stopover>
+  </stopovers>
+  <crew>Thomas</crew>
+  <aid1>6p9E5PBV</aid1>
+  <aid2>snrrdFbt6</aid2>
+  <start>Stralsund</start>
+  <distance unit="nm">50</distance>
+  <destination>Sassnitz</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
+  <comment>Zum Dank für &lt;a target="my_header" href=" https://windpilot.com/blog/blog/windpilot/sv-lundi-matthias-gruetzmacher-ch/"çgt;viel viel Hilfe &lt;/a&gt;&lt;br&gt;Mit Landfall auf Hiddensee und villeicht Ankern nach dem Kap Ancona.
+  </comment>
  </CoG>
  <CoG cr_id="Sassnitz-220nm-Oskarshamn"> 
   <startdate>20230617</startdate> 
@@ -237,7 +298,34 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <destination>Göteborg</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=ftLT8KEMB&amp;key=2V9FjHyNiavcfrxodcHSCVKjGj1xfrVo</link>
   <comment>&lt;a target=&quot;_blank&quot; href=&quot;https://www.sjofartsverket.se/contentassets/109c1f52b0bb4421a5beb9a565fdf079/fritidsthnkanal2014.pdf&quot;&gt;Fahren&lt;/a&gt; auf dem &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/Trollh%C3%A4tte-Kanal&quot;&gt;Trollhätten-Kanal&lt;/a&gt;
-</comment>
+  </comment>
+ </CoG>
+ <CoG cr_id="Nysted-035nm-Darss">zum Darss 
+  <startdate>20230608</startdate> 
+  <enddate>2023060608</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Nysted</start>
+  <distance unit="km">35</distance>
+  <destination>Darss</destination>
+  <link>https://appchart.c-map.com/redirect-route.html?id=d7mYi3TuY&amp;key=t9kseltKqG5eOXI8ync9chsH6JgFnFsi</link>
+  <comment>Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus West wurde beschlossen, Kiel sein zu lassen; also auf zum Darss; Anker fallen: 0000; leider in 1.5 kn Strom und Wind gegenan
+  </comment>
+ </CoG>
+ <CoG cr_id="Darss-030nm-Stralsund"> 
+  <startdate>20230609</startdate> 
+  <enddate>2023060609</enddate>
+  <crew>Stefan &amp; Thejo</crew>
+  <aid1>H5eXP85</aid1>
+  <aid2>H18N7j1Zy9</aid2>
+  <start>Darss</start>
+  <distance unit="km">30</distance>
+  <destination>Stralsund</destination>
+  <link>https://appchart.c-map.com/redirect-track.html?id=MSV4Sybgb&amp;key=hV2DKLnhkyoGA2qgdLtUYtKYSedw0fMW</link>
+  <comment>Wg. Strom gegen Wind und unklarer Ankerleine nachts um 0200: Anker auf! &lt;p&gt; Sehr schönes Segeln in den Sonnenaufgang &lt;p&gt; &lt;video width="100%" controls autoplay muted loop &gt;
+  &lt;source src="/pics/MorningSail.mp4" type="video/mp4"&gt;
+  &lt;/video&gt;</comment>
  </CoG>
 </CoGs>
 
@@ -250,14 +338,20 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <start></start>
   <stopovers>
    <stopover>text
+    <startdate></startdate> 
+    <enddate></enddate>
+    <start></start>
+    <distance unit="nm"></distance>
+    <destination></destination>
     <link></link>
-    <arrivaldate></arrivaldate> 
-    <departuredate></departuredate>
    </stopover>
    <stopover>text
+    <startdate></startdate> 
+    <enddate></enddate>
+    <start></start>
+    <distance unit="nm"></distance>
+    <destination></destination>
     <link></link>
-    <arrivaldate></arrivaldate> 
-    <departuredate></departuredate>
    </stopover>
   </stopovers>
   <distance unit="nm"></distance>
@@ -275,14 +369,20 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <start></start>
   <stopovers>
    <stopover>text
+    <startdate></startdate> 
+    <enddate></enddate>
+    <start></start>
+    <distance unit="nm"></distance>
+    <destination></destination>
     <link></link>
-    <arrivaldate></arrivaldate> 
-    <departuredate></departuredate>
    </stopover>
    <stopover>text
+    <startdate></startdate> 
+    <enddate></enddate>
+    <start></start>
+    <distance unit="nm"></distance>
+    <destination></destination>
     <link></link>
-    <arrivaldate></arrivaldate> 
-    <departuredate></departuredate>
    </stopover>
   </stopovers>
   <distance unit="nm"></distance>
