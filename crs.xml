@@ -169,6 +169,24 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <comment>mit der Möglichkeit am Kap Ancona zu Ankern
   </comment>
  </cr>
+<cr id="Stralsund-026nm-Bock-Vitte"> 
+  <start>Stralsund</start>
+  <distance unit="nm">26</distance>
+  <destination>Vitte</destination>
+  <via>Bock</via>
+  <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
+  <comment>mit der Möglichkeit am Bock zu Ankern
+  </comment>
+ </cr>
+<cr id="Vitte-035nm-Sassnitz"> 
+  <start>Vitte</start>
+  <distance unit="nm">50</distance>
+  <destination>Sassnitz</destination>
+  <via>Glowe</via>
+  <link>https://appchart.c-map.com/redirect-route.html?id=-RD_flsd1&amp;key=9ufMUgT5pJO1FtKWOeKeBuKZqYvAl4vy</link>
+  <comment>Rund Kap Ancona zu den weissen Klippen mit Pause in Glowe
+  </comment>
+ </cr>
 </crs>
 
  <!-- cr id=""> 
