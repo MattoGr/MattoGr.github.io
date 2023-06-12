@@ -86,7 +86,7 @@
   <distance unit="nm">92</distance>
   <destination>Nysted</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=N6XA9VvLM&amp;key=2AaxHvyQvNJKnSJ49J79ctA9BCUxUouH</link>
-  <comment>Geplant war: Sonntag: Timmerdorf, Montag Einschiffen &amp; Burgstaaken, Dienstag Nysted &lt;p&gt; Statt dessen wurde Montag erst der Motor gemacht und Mittwoch hätte es von Burgstaaken direkt nach Kiel zum Oceanrace gehen sollen. Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus West wurde beschlossen, Kiel sein zu lassen und statt dessen "nur" über Dänemark nach Rügen zu fahren; alles andere wäre in einer 3-tägigen Kreuz gegen 6-7 Bft und 1.5 m Welle geendet.
+  <comment>Geplant war: Sonntag: Timmerdorf, Montag Einschiffen &amp; Burgstaaken, Dienstag Nysted &lt;p&gt; Statt dessen wurde Montag erst der Motor gemacht und Mittwoch hätte es von Burgstaaken direkt nach Kiel zum Oceanrace gehen sollen. Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus Ost wurde beschlossen, Kiel sein zu lassen und statt dessen "nur" über Dänemark nach Rügen zu fahren; alles andere wäre in einer 3-tägigen Kreuz gegen 6-7 Bft und 1.5 m Welle geendet.
   </comment>
  </CoG>
  <CoG cr_id="Nysted-095nm-Kiel"> 
@@ -383,7 +383,7 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <distance unit="km">35</distance>
   <destination>Darss</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=d7mYi3TuY&amp;key=t9kseltKqG5eOXI8ync9chsH6JgFnFsi</link>
-  <comment>Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus West wurde beschlossen, Kiel sein zu lassen; also auf zum Darss; Anker fallen: 0000; leider in 1.5 kn Strom und Wind gegenan
+  <comment>Wg. angekündigtem Starkwind Freitag bis Montag (nach dem Oceanrace) aus Ost wurde beschlossen, Kiel sein zu lassen; also auf zum Darss; Anker fallen: 0000; leider in 1.5 kn Strom und Wind gegenan
   </comment>
  </CoG>
  <CoG cr_id="Darss-030nm-Stralsund"> 

@@ -10,7 +10,7 @@
     <cr_ref startdate="20230609" enddate="20230609" lable="&lt;-&gt; Kiel" cr_id="Kiel" ></cr_ref>
     <cr_ref startdate="20230610" enddate="20230612" lable="-&gt; Rostock" cr_id="Kiel-090nm-Rostock" ></cr_ref>
    </trip>
-   <trip id="via_Nysted_2_Rügen" lable="aber wegen kommendem Starkwind aus West ging es statt dessen &lt;&gt; über Nysted nach Rügen" startdate="20230604" enddate="20230608" >
+   <trip id="via_Nysted_2_Rügen" lable="aber wegen kommendem Starkwind aus Ost ging es statt dessen &lt;&gt; über Nysted nach Rügen" startdate="20230604" enddate="20230608" >
     <cr_ref startdate="20230604" enddate="20230607" lable="-&gt; Nysted" cr_id="Wismar-60nm-Nysted" ></cr_ref>
     <cr_ref startdate="20230608" enddate="20230608" lable="-&gt; Darss" cr_id="Nysted-035nm-Darss" ></cr_ref>
     <cr_ref startdate="20230609" enddate="20230609" lable="-&gt; Stralsund" cr_id="Darss-030nm-Stralsund" ></cr_ref>
