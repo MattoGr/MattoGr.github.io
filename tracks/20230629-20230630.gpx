@@ -4,14 +4,8 @@
   xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-  <metadata>
-    <link href="connect.garmin.com">
-      <text>Garmin Connect</text>
-    </link>
-    <time>2023-06-29T15:31:54.000Z</time>
-  </metadata>
   <trk>
-    <name>Oskarshamn Segeln</name>
+    <name>20230629 - 20230630</name>
     <type>sailing_v2</type>
     <trkseg>
       <trkpt lat="57.26724109612405300140380859375" lon="16.454888619482517242431640625">
@@ -85382,23 +85376,6 @@
         </extensions>
       </trkpt>
     </trkseg>
-  </trk>
-</gpx>
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx creator="Garmin Connect" version="1.1"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
-  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-  <metadata>
-    <link href="connect.garmin.com">
-      <text>Garmin Connect</text>
-    </link>
-    <time>2023-06-30T09:18:56.000Z</time>
-  </metadata>
-  <trk>
-    <name>Valdemarsvik Segeln</name>
-    <type>sailing_v2</type>
     <trkseg>
       <trkpt lat="58.19051921367645263671875" lon="16.8518268875777721405029296875">
         <ele>1</ele>
