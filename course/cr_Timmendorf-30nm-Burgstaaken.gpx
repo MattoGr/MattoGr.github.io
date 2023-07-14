@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2023-07-14T15:11:45.135Z</time>
+  <bounds minlat="0.000000000" minlon="0.000000000" maxlat="54.403966667" maxlon="11.332066667"/>
+<trk><name>Timmendorf-30nm-Burgstaaken</name>
+<trkseg>
+  <trkpt lat="53.981416667" lon="11.331466667">
+    <name>WPT002</name>
+    <cmt>WPT002</cmt>
+    <desc>WPT002</desc>
+  </trkpt>
+  <trkpt lat="54.018433333" lon="11.332066667">
+    <name>WPT003</name>
+    <cmt>WPT003</cmt>
+    <desc>WPT003</desc>
+  </trkpt>
+  <trkpt lat="54.039600000" lon="11.299966667">
+    <name>WPT004</name>
+    <cmt>WPT004</cmt>
+    <desc>WPT004</desc>
+  </trkpt>
+  <trkpt lat="54.403966667" lon="11.192333333">
+    <name>WPT005</name>
+    <cmt>WPT005</cmt>
+    <desc>WPT005</desc>
+  </trkpt>
+</trkseg>
+<trk>
+</gpx>
