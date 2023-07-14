@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2023-07-14T13:33:35.848Z</time>
+  <bounds minlat="0.000000000" minlon="0.000000000" maxlat="53.991583333" maxlon="11.450633333"/>
+<trk>
+<name>Wismar-Timmendorf</name>
+<trkseg> 
+ <trkpt lat="53.901216667" lon="11.450633333">
+    <name>WPT002</name>
+    <cmt>WPT002</cmt>
+    <desc>WPT002</desc>
+  </trkpt>
+  <trkpt lat="53.901766667" lon="11.447883333">
+    <name>WPT003</name>
+    <cmt>WPT003</cmt>
+    <desc>WPT003</desc>
+  </trkpt>
+  <trkpt lat="53.946200000" lon="11.411500000">
+    <name>WPT004</name>
+    <cmt>WPT004</cmt>
+    <desc>WPT004</desc>
+  </trkpt>
+  <trkpt lat="53.979416667" lon="11.331250000">
+    <name>WPT005</name>
+    <cmt>WPT005</cmt>
+    <desc>WPT005</desc>
+  </trkpt>
+  <trkpt lat="53.984866667" lon="11.331250000">
+    <name>WPT006</name>
+    <cmt>WPT006</cmt>
+    <desc>WPT006</desc>
+  </trkpt>
+  <trkpt lat="53.991583333" lon="11.373650000">
+    <name>WPT007</name>
+    <cmt>WPT007</cmt>
+    <desc>WPT007</desc>
+  </trkpt>
+</trkseg> 
+<trk> 
+</gpx>
