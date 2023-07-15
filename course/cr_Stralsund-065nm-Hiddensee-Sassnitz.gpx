@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2023-07-15T09:25:17.318Z</time>
+  <bounds minlat="0.000000000" minlon="0.000000000" maxlat="54.697200000" maxlon="13.694850000"/>
+<trk><name>Stralsund-065nm-Hiddensee-Sassnitz</name>
+<trkseg>
+  <trkpt lat="54.321883333" lon="13.115833333">
+    <name>WPT002</name>
+    <cmt>WPT002</cmt>
+    <desc>WPT002</desc>
+  </trkpt>
+  <trkpt lat="54.329083333" lon="13.109300000">
+    <name>WPT003</name>
+    <cmt>WPT003</cmt>
+    <desc>WPT003</desc>
+  </trkpt>
+  <trkpt lat="54.348000000" lon="13.106050000">
+    <name>WPT004</name>
+    <cmt>WPT004</cmt>
+    <desc>WPT004</desc>
+  </trkpt>
+  <trkpt lat="54.378600000" lon="13.116516667">
+    <name>WPT005</name>
+    <cmt>WPT005</cmt>
+    <desc>WPT005</desc>
+  </trkpt>
+  <trkpt lat="54.415583333" lon="13.068800000">
+    <name>WPT006</name>
+    <cmt>WPT006</cmt>
+    <desc>WPT006</desc>
+  </trkpt>
+  <trkpt lat="54.430466667" lon="13.045616667">
+    <name>WPT007</name>
+    <cmt>WPT007</cmt>
+    <desc>WPT007</desc>
+  </trkpt>
+  <trkpt lat="54.436850000" lon="13.039616667">
+    <name>WPT008</name>
+    <cmt>WPT008</cmt>
+    <desc>WPT008</desc>
+  </trkpt>
+  <trkpt lat="54.443750000" lon="13.059350000">
+    <name>WPT009</name>
+    <cmt>WPT009</cmt>
+    <desc>WPT009</desc>
+  </trkpt>
+  <trkpt lat="54.446733333" lon="13.065700000">
+    <name>WPT010</name>
+    <cmt>WPT010</cmt>
+    <desc>WPT010</desc>
+  </trkpt>
+  <trkpt lat="54.453416667" lon="13.066216667">
+    <name>WPT011</name>
+    <cmt>WPT011</cmt>
+    <desc>WPT011</desc>
+  </trkpt>
+  <trkpt lat="54.461400000" lon="13.058500000">
+    <name>WPT012</name>
+    <cmt>WPT012</cmt>
+    <desc>WPT012</desc>
+  </trkpt>
+  <trkpt lat="54.510766667" lon="13.050600000">
+    <name>WPT013</name>
+    <cmt>WPT013</cmt>
+    <desc>WPT013</desc>
+  </trkpt>
+  <trkpt lat="54.601350000" lon="13.053166667">
+    <name>WPT014</name>
+    <cmt>WPT014</cmt>
+    <desc>WPT014</desc>
+  </trkpt>
+  <trkpt lat="54.614783333" lon="13.146383333">
+    <name>WPT015</name>
+    <cmt>WPT015</cmt>
+    <desc>WPT015</desc>
+  </trkpt>
+  <trkpt lat="54.598266667" lon="13.174016667">
+    <name>WPT016</name>
+    <cmt>WPT016</cmt>
+    <desc>WPT016</desc>
+  </trkpt>
+  <trkpt lat="54.594400000" lon="13.175733333">
+    <name>WPT017</name>
+    <cmt>WPT017</cmt>
+    <desc>WPT017</desc>
+  </trkpt>
+  <trkpt lat="54.565833333" lon="13.157366667">
+    <name>WPT018</name>
+    <cmt>WPT018</cmt>
+    <desc>WPT018</desc>
+  </trkpt>
+  <trkpt lat="54.554100000" lon="13.158916667">
+    <name>WPT019</name>
+    <cmt>WPT019</cmt>
+    <desc>WPT019</desc>
+  </trkpt>
+  <trkpt lat="54.553400000" lon="13.137283333">
+    <name>WPT020</name>
+    <cmt>WPT020</cmt>
+    <desc>WPT020</desc>
+  </trkpt>
+  <trkpt lat="54.563450000" lon="13.131283333">
+    <name>WPT021</name>
+    <cmt>WPT021</cmt>
+    <desc>WPT021</desc>
+  </trkpt>
+  <trkpt lat="54.568533333" lon="13.109650000">
+    <name>WPT022</name>
+    <cmt>WPT022</cmt>
+    <desc>WPT022</desc>
+  </trkpt>
+  <trkpt lat="54.563450000" lon="13.130583333">
+    <name>WPT023</name>
+    <cmt>WPT023</cmt>
+    <desc>WPT023</desc>
+  </trkpt>
+  <trkpt lat="54.553300000" lon="13.137283333">
+    <name>WPT024</name>
+    <cmt>WPT024</cmt>
+    <desc>WPT024</desc>
+  </trkpt>
+  <trkpt lat="54.553800000" lon="13.159433333">
+    <name>WPT025</name>
+    <cmt>WPT025</cmt>
+    <desc>WPT025</desc>
+  </trkpt>
+  <trkpt lat="54.565250000" lon="13.157200000">
+    <name>WPT026</name>
+    <cmt>WPT026</cmt>
+    <desc>WPT026</desc>
+  </trkpt>
+  <trkpt lat="54.591816667" lon="13.175400000">
+    <name>WPT027</name>
+    <cmt>WPT027</cmt>
+    <desc>WPT027</desc>
+  </trkpt>
+  <trkpt lat="54.607616667" lon="13.185183333">
+    <name>WPT028</name>
+    <cmt>WPT028</cmt>
+    <desc>WPT028</desc>
+  </trkpt>
+  <trkpt lat="54.649250000" lon="13.216416667">
+    <name>WPT029</name>
+    <cmt>WPT029</cmt>
+    <desc>WPT029</desc>
+  </trkpt>
+  <trkpt lat="54.682916667" lon="13.284750000">
+    <name>WPT030</name>
+    <cmt>WPT030</cmt>
+    <desc>WPT030</desc>
+  </trkpt>
+  <trkpt lat="54.697200000" lon="13.437866667">
+    <name>WPT031</name>
+    <cmt>WPT031</cmt>
+    <desc>WPT031</desc>
+  </trkpt>
+  <trkpt lat="54.664750000" lon="13.497083333">
+    <name>WPT032</name>
+    <cmt>WPT032</cmt>
+    <desc>WPT032</desc>
+  </trkpt>
+  <trkpt lat="54.575700000" lon="13.464133333">
+    <name>WPT033</name>
+    <cmt>WPT033</cmt>
+    <desc>WPT033</desc>
+  </trkpt>
+  <trkpt lat="54.580466667" lon="13.466883333">
+    <name>WPT034</name>
+    <cmt>WPT034</cmt>
+    <desc>WPT034</desc>
+  </trkpt>
+  <trkpt lat="54.593850000" lon="13.615533333">
+    <name>WPT035</name>
+    <cmt>WPT035</cmt>
+    <desc>WPT035</desc>
+  </trkpt>
+  <trkpt lat="54.584300000" lon="13.664283333">
+    <name>WPT036</name>
+    <cmt>WPT036</cmt>
+    <desc>WPT036</desc>
+  </trkpt>
+  <trkpt lat="54.565200000" lon="13.694850000">
+    <name>WPT037</name>
+    <cmt>WPT037</cmt>
+    <desc>WPT037</desc>
+  </trkpt>
+  <trkpt lat="54.537316667" lon="13.694150000">
+    <name>WPT038</name>
+    <cmt>WPT038</cmt>
+    <desc>WPT038</desc>
+  </trkpt>
+  <trkpt lat="54.517250000" lon="13.676650000">
+    <name>WPT039</name>
+    <cmt>WPT039</cmt>
+    <desc>WPT039</desc>
+  </trkpt>
+  <trkpt lat="54.505883333" lon="13.638716667">
+    <name>WPT040</name>
+    <cmt>WPT040</cmt>
+    <desc>WPT040</desc>
+  </trkpt>
+</trkseg>
+</trk>
+</gpx>
