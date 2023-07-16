@@ -23,5 +23,6 @@ Routes
 - filling nav with CoGs
 
 CoGs
-- defining the Course Over Ground
+- defined in CoGs.xml
+- listing the Course Over Ground, dates & Crews
 - filling sec.nav
