@@ -1,0 +1,27 @@
+Index contains of:
+
+Header: starting with -\src\lundi_loc for tracking purpose
+
+nav: containg Toc
+
+section: reciving the Routes
+
+Footer: just some pics
+
+3 Object-Types:
+
+Cruises:
+- defined in Cruises.xml
+- building the ToC
+- Containing Routes
+
+Routes
+- defined in Routes.xlm
+- filling the nav
+- containing a nav and a sec
+- filling sec with content 
+- filling nav with CoGs
+
+CoGs
+- defining the Course Over Ground
+- filling sec.nav
