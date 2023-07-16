@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips>
-  <trip id="Pf_23" lable="20230527 Pfingsten im Heimatrevier" startdate="20230527" enddate="20230530" >
+<cruises>
+  <cruise id="Pf_23" lable="20230527 Pfingsten im Heimatrevier" startdate="20230527" enddate="20230530" >
     <cr_ref startdate="20230527" enddate="20230527" lable="&lt;-&gt; Timmendorf" cr_id="Wismar-010nm-Timmendorf" ></cr_ref>
     <cr_ref startdate="20230530" enddate="20230530" lable="nur etwas raus" cr_id="Wismar-010nm-Timmendorf" ></cr_ref>
-  </trip>
-  <trip id="kein_Kiel" lable="20230603 -&gt; o(h)ne Kiel über Dänemark nach Rügen" startdate="20230603" enddate="20230609" >
-   <trip id="plan_2_Kiel" lable="20230603 -&gt; geplant war der Weg zum Oceanrace &lt;br&gt; und dann mit 3 langen Schlägen nach Rostock" startdate="20230605" enddate="20230612" >
+  </cruise>
+  <cruise id="kein_Kiel" lable="20230603 -&gt; o(h)ne Kiel über Dänemark nach Rügen" startdate="20230603" enddate="20230609" >
+   <cruise id="plan_2_Kiel" lable="20230603 -&gt; geplant war der Weg zum Oceanrace &lt;br&gt; und dann mit 3 langen Schlägen nach Rostock" startdate="20230605" enddate="20230612" >
     <cr_ref startdate="20230605" enddate="20230608" lable="-&gt; Kiel" cr_id="Wismar-100nm-Langeland-Kiel" ></cr_ref>
     <cr_ref startdate="20230609" enddate="20230609" lable="&lt;-&gt; Kiel" cr_id="Kiel" ></cr_ref>
     <cr_ref startdate="20230610" enddate="20230612" lable="-&gt; Rostock" cr_id="Kiel-090nm-Rostock" ></cr_ref>
-   </trip>
-   <trip id="via_Nysted_2_Rügen" lable="aber wegen kommendem Starkwind aus Ost ging es statt dessen &lt;&gt; über Nysted nach Rügen" startdate="20230604" enddate="20230608" >
+   </cruise>
+   <cruise id="via_Nysted_2_Rügen" lable="aber wegen kommendem Starkwind aus Ost ging es statt dessen &lt;&gt; über Nysted nach Rügen" startdate="20230604" enddate="20230608" >
     <cr_ref startdate="20230604" enddate="20230607" lable="-&gt; Nysted" cr_id="Wismar-60nm-Nysted" ></cr_ref>
     <cr_ref startdate="20230608" enddate="20230608" lable="-&gt; Darss" cr_id="Nysted-035nm-Darss" ></cr_ref>
     <cr_ref startdate="20230609" enddate="20230609" lable="-&gt; Stralsund" cr_id="Darss-030nm-Stralsund" ></cr_ref>
-   </trip>
- </trip>
- <trip id="2_Visby" lable="20230610 -&gt; auf nach Gotland &lt;br&gt; über Rügen, Bornholm &amp; Öland" startdate="20230610" enddate="20230630">
-   <trip id="Rostock_2_Sassnitz" lable="geplant war der Start in Rostock" startdate="20230613" enddate="20230616">
+   </cruise>
+ </cruise>
+ <cruise id="2_Visby" lable="20230610 -&gt; auf nach Gotland &lt;br&gt; über Rügen, Bornholm &amp; Öland" startdate="20230610" enddate="20230630">
+   <cruise id="Rostock_2_Sassnitz" lable="geplant war der Start in Rostock" startdate="20230613" enddate="20230616">
      <cr_ref startdate="20230613" enddate="20230616" lable="-&gt; Sassnitz" cr_id="Rostock-110nm-Stralsund-Sassnitz" ></cr_ref>
-   </trip>
-   <trip id="Stralsund_2_Sassnitz" lable="statt dessen starten wir in Stralsund" startdate="20230613" enddate="20230616">
+   </cruise>
+   <cruise id="Stralsund_2_Sassnitz" lable="statt dessen starten wir in Stralsund" startdate="20230613" enddate="20230616">
      <cr_ref startdate="20230613" enddate="20230614" lable="-&gt; über den Bock und Rund Hiddensee" cr_id="Stralsund-026nm-Bock-Vitte" ></cr_ref>
      <cr_ref startdate="20230615" enddate="20230616" lable="-&gt; Rund Kap Ancona" cr_id="Vitte-035nm-Sassnitz" ></cr_ref>
-   </trip>
-   <trip id="Rügen_2_Gotland" lable="und auf Störtebeckers Spuren nach Norden" startdate="20230617" enddate="20230630">
+   </cruise>
+   <cruise id="Rügen_2_Gotland" lable="und auf Störtebeckers Spuren nach Norden" startdate="20230617" enddate="20230630">
     <cr_ref startdate="20230617" enddate="20230626" lable="-&gt; Oskarshamn" cr_id="Sassnitz-220nm-Oskarshamn" ></cr_ref>
     <cr_ref startdate="20230629" enddate="20230630" lable="-&gt; Gotland" cr_id="Oskarsham-075nm-Visby" ></cr_ref>
-   </trip>
- </trip>
- <trip id="Goetalandkanal" lable="20230701 - Richtung West &lt;br&gt;quer durch Schweden" startdate="20230701" enddate="20230802">
+   </cruise>
+ </cruise>
+ <cruise id="Goetalandkanal" lable="20230701 - Richtung West &lt;br&gt;quer durch Schweden" startdate="20230701" enddate="20230802">
   <cr_ref startdate="20230701" enddate="20230703" lable="-&gt; Mem" cr_id="Visby-115nm-Mem" ></cr_ref>
   <cr_ref startdate="20230704" enddate="20230707" lable="~&gt; Vadstena" cr_id="Mem-095km-Vadstena" ></cr_ref>
   <cline>kurze Pause</cline>
@@ -37,13 +37,13 @@
   <cr_ref startdate="20230726" enddate="20230727" lable="~&gt; Sjötorp" cr_id="Karlsborg_065km_Sjoetorp" ></cr_ref>
   <cr_ref startdate="20230728" enddate="20230731" lable="~&gt; Vänersborg" cr_id="Sjoetorp_120km_Vaenersborg" ></cr_ref>
   <cr_ref startdate="20230801" enddate="20230803" lable="~&gt; Göteborg" cr_id="Vaenersborg_080km_Goeteborg" ></cr_ref>
- </trip>
-</trips>
+ </cruise>
+</cruises>
 
 
 
 <!-- cr_ref startdate="" enddate="" lable="&lt;-&gt;" cr_id="" > das Start-Date wird dem Lable immer vorangestellt </cr_ref -->
-<!-- trip id="" lable="&lt;-&gt;" startdate="" enddate=""> Start- und End-Date werden dem Lable nicht hinzugefügt </trip-->
+<!-- trip id="" lable="&lt;-&gt;" startdate="" enddate=""> Start- und End-Date werden dem Lable nicht hinzugefügt </cruise-->
 
 
 

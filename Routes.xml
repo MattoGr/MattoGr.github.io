@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<crs>
- <cr id="Wismar-010nm-Timmendorf"> 
+<rts>
+ <rt id="Wismar-010nm-Timmendorf"> 
   <start>Wismar</start>
   <distance unit="nm">10</distance>
   <destination>Timmendorf</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=w7VUlOyBk&amp;key=uH0OLZKW6OaOvlILPBAAVuOrVXo2PhoH</link>
   <comment>Heimspiel</comment>
- </cr>
- <cr id="Wismar-100nm-Langeland-Kiel"> 
+ </rt>
+ <rt id="Wismar-100nm-Langeland-Kiel"> 
   <start>Wismar</start>
   <distance unit="nm">100</distance>
   <stopovers>
@@ -17,8 +17,8 @@
   <destination>Kiel</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=HoTPmGXo3&amp;key=yILoSJ4qltSYVbCVVnHe2asuQND9V9hZ</link>
   <comment>via Burgstaaken </comment>
- </cr>
- <cr id="Wismar-60nm-Nysted"> 
+ </rt>
+ <rt id="Wismar-60nm-Nysted"> 
   <start>Wismar</start>
   <stopovers>
    <stopover>Burgstaken/Fehmarn</stopover>
@@ -27,8 +27,8 @@
   <destination>Nysted</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=N6XA9VvLM&amp;key=2AaxHvyQvNJKnSJ49J79ctA9BCUxUouH</link>
   <comment>ggf. via Timmendorf</comment>
- </cr>
- <cr id="Nysted-095nm-Kiel"> 
+ </rt>
+ <rt id="Nysted-095nm-Kiel"> 
   <start>Nysted</start>
   <distance unit="nm">95</distance>
   <destination>Kiel</destination>
@@ -37,15 +37,15 @@
   </stopovers>
   <link>https://appchart.c-map.com/redirect-route.html?id=fnDdXcftX&amp;key=gJBBTunV3vubtUIdrxG5XRrL5jIL5Ce6</link>
   <comment>Dänische Südost&quot;küste&quot;</comment>
- </cr>
- <cr id="Kiel"> 
+ </rt>
+ <rt id="Kiel"> 
   <start>Kiel</start>
   <distance unit="nm">10</distance>
   <destination>Kiel</destination>
   <link>https://www.kiel-sailing-city.de/veranstaltungen/the-ocean-race-2023-kiel-fly-by.html</link>
   <comment>Schnelle Boote sehen</comment>
- </cr>
- <cr id="Kiel-090nm-Rostock"> 
+ </rt>
+ <rt id="Kiel-090nm-Rostock"> 
   <start>Kiel</start>
   <stopovers>
    <stopover>Burgstaken/Fehmarn</stopover>
@@ -55,8 +55,8 @@
   <destination>Rostock</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=fx0KsXzl1&amp;key=xHKqEeE1pJIrUchMg16CCEEjJcJyWH6D</link>
   <comment>gen Osten</comment>
- </cr>
- <cr id="Rostock-110nm-Stralsund-Sassnitz"> 
+ </rt>
+ <rt id="Rostock-110nm-Stralsund-Sassnitz"> 
   <start>Rostock</start>
   <distance unit="nm">110</distance>
   <destination>Sassnitz</destination>
@@ -64,8 +64,8 @@
   <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
   <comment>Nachtfahrt Richtung Hiddensee, dann über Strahsund und den &lt;a target=&quot;my_header&quot;
 href=&quot;https://de.wikipedia.org/wiki/Greifswalder_Bodden&quot;&gt;Greifswalder Bodden&lt;/a&gt;</comment>
- </cr>
- <cr id="Sassnitz-220nm-Oskarshamn"> 
+ </rt>
+ <rt id="Sassnitz-220nm-Oskarshamn"> 
   <start>Sassnitz</start>
   <stopovers>
    <stopover>Bornholm
@@ -90,22 +90,22 @@ href=&quot;https://de.wikipedia.org/wiki/Greifswalder_Bodden&quot;&gt;Greifswald
    weiter nach Kalmar, mit Übernachtung auf Öland&lt;br&gt;
    und weiter Oskarsham, wieder mit Übernachtung auf Öland.
   </comment>
- </cr>
- <cr id="Oskarsham-075nm-Visby"> 
+ </rt>
+ <rt id="Oskarsham-075nm-Visby"> 
   <start>Oskarsham</start>
   <distance unit="nm">75</distance>
   <destination>Visby</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=sIamipb00&amp;key=3wmZNLE6rsoHSXWuJl0cYiaP3GIFh5L5</link>
   <comment>ein (Nacht-)Schlag</comment>
- </cr>
- <cr id="Visby-115nm-Mem"> 
+ </rt>
+ <rt id="Visby-115nm-Mem"> 
   <start>Visby</start>
   <distance unit="nm">115</distance>
   <destination>Mem</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=CI4lNjPb0&amp;key=xoAWohudtFIeWXJEaHvCTpPM2Jr9bxv7</link>
   <comment>auf Richtung Gotaland-Kanal</comment>
- </cr>
- <cr id="Mem-095km-Vadstena"> 
+ </rt>
+ <rt id="Mem-095km-Vadstena"> 
   <start>Mem</start>
   <distance unit="km">95</distance>
   <destination>Vadestena</destination>
@@ -113,54 +113,54 @@ href=&quot;https://de.wikipedia.org/wiki/Greifswalder_Bodden&quot;&gt;Greifswald
   <comment>&lt;a target=&quot;my_header&quot;  href=&quot;https://www.gotacanal.se&quot;&gt;Kreuzfahrt&lt;br&gt;&lt;/a&gt; auf
    der östliche Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://www.gotakanal.se&quot;&gt;Gotaland-Kanal&lt;/a&gt;
   </comment>
- </cr>
- <cr id="Vadstena_030km_Karlsborg"> 
+ </rt>
+ <rt id="Vadstena_030km_Karlsborg"> 
   <start>Vadestena</start>
   <distance unit="km">30</distance>
   <destination>Karlsborg</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=RRNs3XyIG&amp;key=hH8dYGTGnCaUtxuu6X1WYk5aBxTZMmzP</link>
   <comment>Quer über den &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/V%C3%A4ttern&quot;&gt;Vätteren&lt;/a&gt;</comment>
- </cr>
- <cr id="Karlsborg_065km_Sjoetorp"> 
+ </rt>
+ <rt id="Karlsborg_065km_Sjoetorp"> 
   <start>Karlsborg</start>
   <distance unit="km">65</distance>
   <destination>Sjötorp</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=bYGSoUF1N&amp;key=bwSU70TnwLtAFAF2MBbeK8R1eHtXfPN3</link>
   <comment>&lt;a target=&quot;my_header&quot; href=&quot;https://www.gotacanal.se&quot;&gt;Kreuzfahrt&lt;br&gt;&lt;/a&gt; auf
 der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://www.gotakanal.se&quot;&gt;Gotaland-Kanal&lt;/a&gt;</comment>
- </cr>
- <cr id="Sjoetorp_120km_Vaenersborg"> 
+ </rt>
+ <rt id="Sjoetorp_120km_Vaenersborg"> 
   <start>Sjötorp</start>
   <distance unit="km">120</distance>
   <destination>Vänersborg</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=pzVWTrvRh&amp;key=Fcngj22O7da5a0ufs9DOr1DeGOKGmgyn</link>
   <comment>Längs des &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/V%C3%A4nern&quot;&gt;Vänern&lt;/a&gt;</comment>
- </cr>
- <cr id="Vaenersborg_080km_Goeteborg"> 
+ </rt>
+ <rt id="Vaenersborg_080km_Goeteborg"> 
   <start>Vänersborg</start>
   <distance unit="km">80</distance>
   <destination>Göteborg</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=ftLT8KEMB&amp;key=2V9FjHyNiavcfrxodcHSCVKjGj1xfrVo</link>
   <comment>&lt;a target=&quot;_blank&quot; href=&quot;https://www.sjofartsverket.se/contentassets/109c1f52b0bb4421a5beb9a565fdf079/fritidsthnkanal2014.pdf&quot;&gt;Fahren&lt;/a&gt; auf dem &lt;a target=&quot;my_header&quot; href=&quot;https://de.wikipedia.org/wiki/Trollh%C3%A4tte-Kanal&quot;&gt;Trollhätten-Kanal&lt;/a&gt;
   </comment>
- </cr>
- <cr id="Darss-30nm-Stralsund"> 
+ </rt>
+ <rt id="Darss-30nm-Stralsund"> 
   <start>Darss</start>
   <distance unit="nm">30</distance>
   <destination>Stralsund</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=DFFgUqFQ-&amp;key=oFI6cnGWVSvExOcqgpgY1Jqh0WYuW9Jb</link>
   <comment>durch den Bock
   </comment>
- </cr>
- <cr id="Nysted-35nm-Darss"> 
+ </rt>
+ <rt id="Nysted-35nm-Darss"> 
   <start>Nysted</start>
   <distance unit="nm">35</distance>
   <destination>Darss</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=d7mYi3TuY&amp;key=t9kseltKqG5eOXI8ync9chsH6JgFnFsi</link>
   <comment>via Gedser
   </comment>
- </cr>
- <cr id="Stralsund-050nm-Hiddensee-Sassnitz"> 
+ </rt>
+ <rt id="Stralsund-050nm-Hiddensee-Sassnitz"> 
   <start>Stralsund</start>
   <distance unit="nm">50</distance>
   <destination>Sassnitz</destination>
@@ -168,8 +168,8 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <link>https://appchart.c-map.com/redirect-route.html?id=HGTUQoz0a&amp;key=WvjFrbpmmhXcJc9afx0JWCCdt8VoAv8w</link>
   <comment>mit der Möglichkeit am Kap Ancona zu Ankern
   </comment>
- </cr>
-<cr id="Stralsund-026nm-Bock-Vitte"> 
+ </rt>
+<rt id="Stralsund-026nm-Bock-Vitte"> 
   <start>Stralsund</start>
   <distance unit="nm">26</distance>
   <destination>Vitte</destination>
@@ -177,8 +177,8 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <link>https://appchart.c-map.com/redirect-route.html?id=3YrC5ojQY&amp;key=L3gr7lkJZ70d4ieroglbmjffu61PuCTf</link>
   <comment>mit der Möglichkeit am Bock zu Ankern
   </comment>
- </cr>
-<cr id="Vitte-035nm-Sassnitz"> 
+ </rt>
+<rt id="Vitte-035nm-Sassnitz"> 
   <start>Vitte</start>
   <distance unit="nm">50</distance>
   <destination>Sassnitz</destination>
@@ -186,8 +186,8 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <link>https://appchart.c-map.com/redirect-route.html?id=-RD_flsd1&amp;key=9ufMUgT5pJO1FtKWOeKeBuKZqYvAl4vy</link>
   <comment>Rund Kap Ancona zu den weissen Klippen mit Pause in Glowe
   </comment>
- </cr>
-</crs>
+ </rt>
+</rts>
 
  <!-- cr id=""> 
   <start></start>
@@ -199,4 +199,4 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <via></via>
   <link></link>
   <comment></comment>
- <cr -->
+ <rt -->
