@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2023-07-19T16:07:46.607Z</time>
+  <bounds minlat="0.000000000" minlon="0.000000000" maxlat="57.637550000" maxlon="18.285833333"/>
+<trk>
+    <name>Oskarsham-075nm-Visby</name>
+<trkseg>
+  <trkpt lat="57.267333333" lon="16.455533333">
+    <name>WPT002</name>
+    <cmt>WPT002</cmt>
+    <desc>WPT002</desc>
+  </trkpt>
+  <trkpt lat="57.266916667" lon="16.456866667">
+    <name>WPT003</name>
+    <cmt>WPT003</cmt>
+    <desc>WPT003</desc>
+  </trkpt>
+  <trkpt lat="57.263833333" lon="16.462366667">
+    <name>WPT004</name>
+    <cmt>WPT004</cmt>
+    <desc>WPT004</desc>
+  </trkpt>
+  <trkpt lat="57.262950000" lon="16.470983333">
+    <name>WPT005</name>
+    <cmt>WPT005</cmt>
+    <desc>WPT005</desc>
+  </trkpt>
+  <trkpt lat="57.263900000" lon="16.480350000">
+    <name>WPT006</name>
+    <cmt>WPT006</cmt>
+    <desc>WPT006</desc>
+  </trkpt>
+  <trkpt lat="57.270116667" lon="16.495200000">
+    <name>WPT007</name>
+    <cmt>WPT007</cmt>
+    <desc>WPT007</desc>
+  </trkpt>
+  <trkpt lat="57.271100000" lon="16.506816667">
+    <name>WPT008</name>
+    <cmt>WPT008</cmt>
+    <desc>WPT008</desc>
+  </trkpt>
+  <trkpt lat="57.270983333" lon="16.527900000">
+    <name>WPT009</name>
+    <cmt>WPT009</cmt>
+    <desc>WPT009</desc>
+  </trkpt>
+  <trkpt lat="57.290850000" lon="16.608533333">
+    <name>WPT010</name>
+    <cmt>WPT010</cmt>
+    <desc>WPT010</desc>
+  </trkpt>
+  <trkpt lat="57.423050000" lon="17.058550000">
+    <name>WPT011</name>
+    <cmt>WPT011</cmt>
+    <desc>WPT011</desc>
+  </trkpt>
+  <trkpt lat="57.474033333" lon="17.276900000">
+    <name>WPT012</name>
+    <cmt>WPT012</cmt>
+    <desc>WPT012</desc>
+  </trkpt>
+  <trkpt lat="57.526783333" lon="17.569400000">
+    <name>WPT013</name>
+    <cmt>WPT013</cmt>
+    <desc>WPT013</desc>
+  </trkpt>
+  <trkpt lat="57.633766667" lon="18.269350000">
+    <name>WPT014</name>
+    <cmt>WPT014</cmt>
+    <desc>WPT014</desc>
+  </trkpt>
+  <trkpt lat="57.635733333" lon="18.274900000">
+    <name>WPT015</name>
+    <cmt>WPT015</cmt>
+    <desc>WPT015</desc>
+  </trkpt>
+  <trkpt lat="57.636883333" lon="18.280516667">
+    <name>WPT016</name>
+    <cmt>WPT016</cmt>
+    <desc>WPT016</desc>
+  </trkpt>
+  <trkpt lat="57.636933333" lon="18.284283333">
+    <name>WPT017</name>
+    <cmt>WPT017</cmt>
+    <desc>WPT017</desc>
+  </trkpt>
+  <trkpt lat="57.637550000" lon="18.285833333">
+    <name>WPT018</name>
+    <cmt>WPT018</cmt>
+    <desc>WPT018</desc>
+  </trkpt>
+</trkseg>
+</trk>
+</gpx>
