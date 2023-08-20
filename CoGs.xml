@@ -34,8 +34,8 @@
   <start>Wismar</start>
   <distance unit="nm">100</distance>
   <stopovers>
-   <stopover enum="1">Burgstaken/Fehmarn</stopover>
-   <stopover enum="2">Bagenkop/Langeland</stopover>
+   <stopover enum="0">Burgstaken/Fehmarn</stopover>
+   <stopover enum="1">Bagenkop/Langeland</stopover>
   </stopovers>
   <destination>Kiel</destination>
   <link>https://appchart.c-map.com/redirect-route.html?id=HoTPmGXo3&amp;key=yILoSJ4qltSYVbCVVnHe2asuQND9V9hZ</link>
@@ -50,7 +50,7 @@
   <aid2>H18N7j1Zy9</aid2>
   <start>Wismar</start>
   <stopovers>
-    <stopover enum="1">nach Kirchdorf
+    <stopover enum="0">nach Kirchdorf
       <startdate>20230604</startdate> 
       <enddate>20230604</enddate>
       <start>Wismar</start>
@@ -58,7 +58,7 @@
       <destination>Kirchdorf</destination>
       <link>https://appchart.c-map.com/redirect-track.html?id=uYnIrzLUa&amp;key=mbMv3sghpHQXZm1f3hJetwz9asdQ9OUw</link>
     </stopover>
-    <stopover enum="2">und quer rüber nach Grömitz
+    <stopover enum="1">und quer rüber nach Grömitz
       <startdate>20230605</startdate> 
       <enddate>20230605</enddate>
       <start>Kirchdorf</start>
@@ -66,7 +66,7 @@
       <destination>Grömitz</destination>
       <link>https://appchart.c-map.com/redirect-track.html?id=tWEC0uSQI&amp;key=aEH7KyepEIyBkHZt8Q6eLHBRmald9qOj</link>
     </stopover>
-    <stopover enum="3">und via Burgstaaken
+    <stopover enum="2">und via Burgstaaken
       <startdate>20230606</startdate> 
       <enddate>20230606</enddate>
       <start>Grömitz</start>
@@ -74,7 +74,7 @@
       <destination>Burgstaaken</destination>
       <link>https://appchart.c-map.com/redirect-track.html?id=tWEC0uSQI&amp;key=aEH7KyepEIyBkHZt8Q6eLHBRmald9qOj</link>
     </stopover>
-    <stopover enum="4">und nach Nysted
+    <stopover enum="3">und nach Nysted
       <startdate>20230607</startdate> 
       <enddate>20230607</enddate>
       <start>Burgstaaken</start>
@@ -138,7 +138,7 @@
   <startdate>20230613</startdate> 
   <enddate>20230616</enddate>
   <stopovers>
-   <stopover enum="1">Hiddensee
+   <stopover enum="0">Hiddensee
     <startdate>20230613</startdate> 
     <enddate>20230613</enddate>
     <start>Stralsund</start>
@@ -146,7 +146,7 @@
     <destination>Vitte</destination>
     <link></link>
    </stopover>
-   <stopover enum="2">Ankern am Kap
+   <stopover enum="1">Ankern am Kap
     <startdate>20230614</startdate> 
     <enddate>20230614</enddate>
     <start>Vitte</start>
@@ -154,7 +154,7 @@
     <destination>Kap Ancona</destination>
     <link></link>
    </stopover>
-   <stopover enum="3">Sassnitz
+   <stopover enum="2">Sassnitz
     <startdate>20230615</startdate> 
     <enddate>20230615</enddate>
     <start></start>
@@ -177,7 +177,7 @@
   <startdate>20230613</startdate> 
   <enddate>20230614</enddate>
   <stopovers>
-   <stopover enum="1">Ankern vor Fischland
+   <stopover enum="0">Ankern vor Fischland
     <startdate>20230613</startdate> 
     <enddate>20230613</enddate>
     <start>Stralsund</start>
@@ -185,7 +185,7 @@
     <destination>Barhöft</destination>
     <link></link>
    </stopover>
-   <stopover enum="2">Rund Hiddensee
+   <stopover enum="1">Rund Hiddensee
     <startdate>20230614</startdate> 
     <enddate>20230614</enddate>
     <start>Barhöft</start>
@@ -207,7 +207,7 @@
   <startdate>20230615</startdate> 
   <enddate>20230616</enddate>
   <stopovers>
-   <stopover enum="1">Ums Kap Ancona
+   <stopover enum="0">Ums Kap Ancona
     <startdate>20230615</startdate> 
     <enddate>20230615</enddate>
     <start>Vitte</start>
@@ -215,7 +215,7 @@
     <destination>Glowe</destination>
     <link></link>
    </stopover>
-   <stopover enum="2">Weisse Klippen
+   <stopover enum="1">Weisse Klippen
     <startdate>20230616</startdate> 
     <enddate>20230616</enddate>
     <start>Glowe</start>
@@ -242,7 +242,7 @@
   <aid2></aid2>
   <start>Sassnitz</start>
   <stopovers>
-   <stopover enum="1">Bornholm
+   <stopover enum="0">Bornholm
     <link>https://appchart.c-map.com/redirect-route.html?id=nmwdykrsJ&amp;key=rmUfUFGEobj87higPz5v10buxs4QjyDB</link>
     <startdate>20230617</startdate> 
     <enddate>20230618</enddate>
@@ -250,7 +250,7 @@
     <distance unit="nm">90</distance>
     <destination>Bornholm</destination>
    </stopover>
-   <stopover enum="2">Utklippan
+   <stopover enum="1">Utklippan
     <link>https://appchart.c-map.com/redirect-route.html?id=mNW7SgkWG&amp;key=XjrrJNazCv6r9CtMEl46hOIFYnHwVtMT</link>
     <startdate>20230618</startdate> 
     <enddate>20230619</enddate>
@@ -258,7 +258,7 @@
     <distance unit="nm">90</distance>
     <destination>Utklippan</destination>
    </stopover>
-   <stopover enum="3">Kalmar
+   <stopover enum="2">Kalmar
     <link>https://appchart.c-map.com/redirect-route.html?id=PvQPmJBlT&amp;key=EruV76MamXWXna6W045DeEksTEKxx68q</link>
     <startdate>20230619</startdate> 
     <enddate>20230621</enddate>
@@ -266,7 +266,7 @@
     <distance unit="nm">90</distance>
     <destination>Kalmar</destination>
    </stopover>
-   <stopover enum="4">Öland
+   <stopover enum="3">Öland
     <link>https://appchart.c-map.com/redirect-route.html?id=OzG55GL7I&amp;key=5Fqqb16val8PGrLW5dAZTpDdPa2xIgzd</link>
     <startdate>20230622</startdate> 
     <enddate>20230624</enddate>
@@ -410,7 +410,7 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <aid2></aid2>
   <start></start>
   <stopovers>
-   <stopover enum="1">text
+   <stopover enum="0">text
     <startdate></startdate> 
     <enddate></enddate>
     <start></start>
@@ -418,7 +418,7 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
     <destination></destination>
     <link></link>
    </stopover>
-   <stopover enum="1">text
+   <stopover enum="0">text
     <startdate></startdate> 
     <enddate></enddate>
     <start></start>
@@ -441,7 +441,7 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
   <aid2></aid2>
   <start></start>
   <stopovers>
-   <stopover enum="1">text
+   <stopover enum="0">text
     <startdate></startdate> 
     <enddate></enddate>
     <start></start>
@@ -449,7 +449,7 @@ der westlichen Hälfte des &lt;a target=&quot;_blank&quot;  href=&quot;https://w
     <destination></destination>
     <link></link>
    </stopover>
-   <stopover enum="1">text
+   <stopover enum="0">text
     <startdate></startdate> 
     <enddate></enddate>
     <start></start>
